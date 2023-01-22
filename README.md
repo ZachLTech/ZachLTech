@@ -2,7 +2,7 @@
 
 <h3 align="center">About me</h3>
 
-<p align="center"><strong>
+<p align="left"><strong>
     Hi! My name’s Zach, academically I’m a 16 year old high school student in college! But beyond schooling, I program for fun and use coding to my advantage as well when I get the chance.<br><br> 
     Interests: data science, artificial intelligence, IT, software development, API’s, and even a little UX/UI design for websites/software
     <br>
