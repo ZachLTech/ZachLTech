@@ -1,9 +1,10 @@
 <h2 align="center">:rocket: Welcome to my GitHub Profile! I'm Zach :smile:</h2>
 <h3 align="center">About me</h3>
-<link rel="stylesheet" href="https://github.com/ZachLTech/ZachLTech/blob/main/assets/style.css">
 
-<p align="left" class="lists">
-<strong> Hi! My name’s Zach, academically I’m a 16 year old high school student in college! But beyond schooling, I program for fun and use coding to my advantage as well when I get the chance </strong>
+<p align="left">
+<strong> Hi! My name’s Zach, academically I’m a 16 year old high school student in college!
+<br>
+Beyond schooling, I program for fun and use coding to my advantage as well when I get the chance </strong>
 <br>
 <br>
 <strong> Interests: </strong>
