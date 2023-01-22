@@ -1,16 +1,6 @@
 <h2 align="center">:rocket: Welcome to my GitHub Profile! I'm Zach :smile:</h2>
 <h3 align="center">About me</h3>
-
-<style>
-.lists {
-  border-style: none;
-  padding: center;
-  color: white;
-  font-size: 30px;
-  font-family: monospace;
-}
-
-</style>
+<link rel="stylesheet" href="styles.css">
 
 <p align="left" class="lists">
 <strong> Hi! My name’s Zach, academically I’m a 16 year old high school student in college! But beyond schooling, I program for fun and use coding to my advantage as well when I get the chance </strong>
