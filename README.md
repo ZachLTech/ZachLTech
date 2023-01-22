@@ -23,7 +23,6 @@ C/C++, Django, Docker, MySQL
 </strong> Rust, Javascript, React, AWS
 <strong>
 <br>
-<br>
 <hr>
 I'm currently working on a few projects as you can see in my repositories,
 <br>
@@ -34,7 +33,9 @@ alongside taking college classes full-time and enjoy ricing linux on my spare ti
 <p align="center">
 I also like dogs :dog:
 </strong>
+<hr>
 </p>
+
 <div align="center">
 
 ![Metrics](https://metrics.lecoq.io/ZachLTech?template=classic&habits=1&stars=1&achievements=1&introduction=1&activity=1&repositories=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&stars=false&stars.limit=4&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&repositories=false&repositories.featured=Smart-Mouse-Clicker%2C%20PhysicalSizeOfTheInternetSite%2C%20PortfolioLoadingPage&repositories.pinned=0&repositories.starred=0&repositories.random=0&repositories.order=featured%2C%20pinned%2C%20starred%2C%20random&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&activity=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&introduction=false&introduction.title=true&config.timezone=America%2FNew_York)
