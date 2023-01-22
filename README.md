@@ -1,12 +1,14 @@
 <h2 align="center">:rocket: Welcome to my GitHub Profile! I'm Zach :smile:</h2>
 <h3 align="center">About me</h3>
 
-<p align="left">
+<p align="center">
 <strong> Hi! My name’s Zach, academically I’m a 16 year old high school student in college!
 <br>
-Beyond schooling, I program for fun and use coding to my advantage as well when I get the chance </strong>
+Beyond schooling, I program for fun and use coding to my advantage as well when I get the chance. </strong>
 <br>
 <br>
+</p>
+<p align="left">
 <strong> Interests: </strong>
  data science, artificial intelligence, IT, software development, API’s, and even a little UX/UI design for websites/software
 <br>
@@ -20,7 +22,11 @@ C/C++, Django, Docker, MySQL
 </strong> Rust, Javascript, React, AWS
 <strong>
 <br>
-I'm currently working on a few projects as you can see in my repositories alongside taking college classes full-time and enjoy ricing linux on my spare time
+<br>
+I'm currently working on a few projects as you can see in my repositories,
+<br>
+alongside taking college classes full-time and enjoy ricing linux on my spare time.
+<br>
 <br>
 I also like dogs :dog:
 </strong>
