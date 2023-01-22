@@ -8,6 +8,7 @@ Beyond schooling, I program for fun and use coding to my advantage as well when 
 <br>
 <br>
 </p>
+<hr>
 <p align="left">
 <strong> Interests: </strong>
  data science, artificial intelligence, IT, software development, API’s, and even a little UX/UI design for websites/software
@@ -23,11 +24,14 @@ C/C++, Django, Docker, MySQL
 <strong>
 <br>
 <br>
+<hr>
 I'm currently working on a few projects as you can see in my repositories,
 <br>
 alongside taking college classes full-time and enjoy ricing linux on my spare time.
 <br>
 <br>
+</p>
+<p align="center">
 I also like dogs :dog:
 </strong>
 </p>
