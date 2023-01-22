@@ -6,7 +6,6 @@
 <br>
 Beyond schooling, I program for fun and use coding to my advantage as well when I get the chance. </strong>
 <br>
-<br>
 </p>
 <hr>
 <p align="left">
@@ -27,7 +26,6 @@ C/C++, Django, Docker, MySQL
 I'm currently working on a few projects as you can see in my repositories,
 <br>
 alongside taking college classes full-time and enjoy ricing linux on my spare time.
-<br>
 <br>
 </p>
 <p align="center">
