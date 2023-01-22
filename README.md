@@ -4,9 +4,10 @@
 
 <p align="left"><strong>
     Hi! My name’s Zach, academically I’m a 16 year old high school student in college! But beyond schooling, I program for fun and use coding to my advantage as well when I get the chance.<br><br> 
-<hr> ```
+
     Interests: 
-</strong> data science, artificial intelligence, IT, software development, API’s, and even a little UX/UI design for websites/software
+</strong>
+ data science, artificial intelligence, IT, software development, API’s, and even a little UX/UI design for websites/software
     <br>
    <strong> Languages:
    </strong> Python, HTML, Bash, CSS
@@ -16,14 +17,14 @@
 <br>
    <strong> Plan to Learn Learning:
    </strong> Rust, Javascript, React, AWS
-```
-</hr>
+
+<strong>
 <br>
     I'm currently working on a few projects as you can see in my repositories alongside taking college classes full-time and enjoy ricing linux on my spare time
 <br>
     I also like dogs :dog:
     
-
+</strong>
 </p>
 
 
