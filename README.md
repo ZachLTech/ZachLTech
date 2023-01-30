@@ -25,7 +25,7 @@ C/C++, Django, Docker, MySQL
 <hr>
 I'm currently working on a few projects as you can see in my repositories,
 <br>
-alongside taking college classes full-time and enjoy ricing linux on my spare time.
+alongside taking college classes full-time and I enjoy ricing linux on my spare time.
 <br>
 </p>
 <p align="center">
