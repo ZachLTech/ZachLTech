@@ -1,12 +1,14 @@
 <h2 align="center">:rocket: Welcome to my GitHub Profile! I'm Zach :smile:</h2>
+<hr>
 <p> <br> <imgt alt="<Funny Coding Gif Failed to Load>" src="assets/giphy.webp"> <br>
 <h3 align="center">About me</h3>
+<hr>
 
 <p align="center">
 <strong> Hi! My name’s Zach, academically I’m a 16 year old high school student in college!
 <br>
 Beyond schooling, I program for fun and use coding to my advantage as well when I get the chance. </strong>
-<br>
+
 
 
 <img height="80" alt="<Funny Coding Gif Failed to Load>" src="assets/coding.gif">
@@ -35,8 +37,8 @@ Beyond schooling, I program for fun and use coding to my advantage as well when 
 <strong> Interests: </strong>
  data science, artificial intelligence, IT, software development, API’s, and even a little UX/UI design for websites/software
 <br>
-<strong> Languages: </strong> 
-Python, HTML, Bash, CSS<img align="right" height="80" alt="<Funny Coding Gif Failed to Load>" src="assets/comp.gif">
+
+<img align="right" height="80" alt="<Funny Coding Gif Failed to Load>" src="assets/comp.gif">
 <br>
 <strong> Learning Focus: </strong>
 C/C++, Django, Docker, MySQL 
