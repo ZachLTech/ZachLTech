@@ -74,7 +74,7 @@ I also like dogs :dog:
 <img align="center" height="70" alt="RasPiOS" src="assets/raspios.svg">
 </p>
 <hr>
-<h3>:chart_with_upwards_trend: Stats :bar_chart: </h3>
+<h3 align="center">:chart_with_upwards_trend: Stats :bar_chart: </h3>
 <hr>
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=zachltech&theme=tokyonight&show_icons=true">
@@ -85,7 +85,7 @@ I also like dogs :dog:
 </div>
 
 <hr>
-<h3>:pushpin: Metrics :paperclip:</h3>
+<h3 align="center">:pushpin: Metrics :paperclip:</h3>
 <hr>
 <div align="center">
 
