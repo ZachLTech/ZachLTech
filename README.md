@@ -4,9 +4,9 @@
 <p align="center">
 <strong> Hi! My name’s Zach, academically I’m a 16 year old high school student in college!
 <br>
-Beyond schooling, I program for fun and use coding to my advantage as well when I get the chance. </strong>
+Beyond schooling, I program for fun and use coding to my advantage as well when I get the chance. <img height="80" alt="<Funny Coding Gif Failed to Load>" src="assets/giphy.webp"> </strong>
 <br>
-<img height="80" alt="<Funny Coding Gif Failed to Load>" src="assets/giphy.webp"
+
 </p>
 <hr>
 <p align="left">
