@@ -15,13 +15,13 @@ Beyond schooling, I program for fun and use coding to my advantage as well when 
 <h3 align="center">:scroll: Languages/Tools :wrench: </h3>
 <hr>
 <p align="center">
-<img align="right" height="100" alt="Python" src="assets/python.svg"> 
-<img align="right" height="100" alt="C" src="assets/c.png">
-<img align="right" height="100" alt="Bash" src="assets/bashshell.png">
-<img align="right" height="100" alt="HTML5" src="assets/html5.svg">
-<img align="right" height="100" alt="CSS3" src="assets/css3.svg">
-<img align="right" height="100" alt="Git" src="assets/git.svg">
-<img align="right" height="100" alt="VSCode" src="assets/vsc.svg">
+<img align="right" height="72" alt="Python" src="assets/python.svg"> 
+<img align="right" height="72" alt="C" src="assets/c.png">
+<img align="right" height="72" alt="Bash" src="assets/bashshell.png">
+<img align="right" height="72" alt="HTML5" src="assets/html5.svg">
+<img align="right" height="72" alt="CSS3" src="assets/css3.svg">
+<img align="right" height="72" alt="Git" src="assets/git.svg">
+<img align="right" height="72" alt="VSCode" src="assets/vsc.svg">
 <br><br>
 </p>
 <hr>
