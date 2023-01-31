@@ -79,11 +79,11 @@ I also like dogs :dog:
 <h3 align="center">:chart_with_upwards_trend: Stats :bar_chart: </h3>
 <hr>
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=zachltech&theme=dark&show_icons=true">
+<img src="https://github-readme-stats.vercel.app/api?username=zachltech&theme=tokyonight&show_icons=true">
 <br />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=zachltech&theme=dark&show_icons=true">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=zachltech&theme=tokyonight&show_icons=true">
 <br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zachltech&layout=compact&theme=dark&show_icons=true" width = 500>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zachltech&layout=compact&theme=tokyonight&show_icons=true" width = 500>
 </div>
 
 <hr>
