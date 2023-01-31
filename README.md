@@ -56,9 +56,24 @@ alongside taking college classes full-time and I enjoy ricing linux on my spare 
 <p align="center">
 I also like dogs :dog:
 </strong>
-<hr>
 </p>
-
+<hr>
+<h3>:floppy_disk:Operating Systems/Linux Distros:dvd:</h3>
+<hr>
+<p align="center">
+<img align="center" height="70" alt="Windows" src="assets/windows.png"> 
+&nbsp;&nbsp;
+<img align="center" height="70" alt="Arch" src="assets/arch.png">
+&nbsp;&nbsp;
+<img align="center" height="70" alt="Ubuntu" src="assets/ubuntu.png">
+&nbsp;&nbsp;
+<img align="center" height="70" alt="Debian" src="assets/debian.png">
+&nbsp;&nbsp;
+<img align="center" height="70" alt="Kali" src="assets/kali.png">
+&nbsp;&nbsp;
+<img align="center" height="70" alt="RasPiOS" src="assets/raspios.svg">
+</p>
+<hr>
 <div align="center">
 
 ![Metrics](https://metrics.lecoq.io/ZachLTech?template=classic&habits=1&stars=1&achievements=1&introduction=1&activity=1&repositories=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&stars=false&stars.limit=4&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&repositories=false&repositories.featured=Smart-Mouse-Clicker%2C%20PhysicalSizeOfTheInternetSite%2C%20PortfolioLoadingPage&repositories.pinned=0&repositories.starred=0&repositories.random=0&repositories.order=featured%2C%20pinned%2C%20starred%2C%20random&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&activity=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&introduction=false&introduction.title=true&config.timezone=America%2FNew_York)
