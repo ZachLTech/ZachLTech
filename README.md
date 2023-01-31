@@ -14,7 +14,7 @@ Beyond schooling, I program for fun and use coding to my advantage as well when 
 <hr>
 <h3 align="center">:scroll: Languages/Tools :wrench: </h3>
 <hr>
-<p align="left">
+<p align="center">
 <img align="right" height="72" alt="Python" src="assets/python.svg"> 
 <img align="right" height="72" alt="C" src="assets/c.png">
 <img align="right" height="72" alt="Bash" src="assets/bashshell.png">
