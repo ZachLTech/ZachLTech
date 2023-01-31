@@ -20,19 +20,19 @@ Beyond schooling, I program for fun and use coding to my advantage as well when 
 <h3 align="center">:scroll: Languages/Tools :wrench: </h3>
 <hr>
 <p align="center">
-<img align="center" height="70" alt="Python" src="assets/python.png"> 
+<img align="center" height="70" alt="Python" title="Python" src="assets/python.png"> 
 &nbsp;&nbsp;
-<img align="center" height="70" alt="C" src="assets/c.png">
+<img align="center" height="70" alt="C" title="C" src="assets/c.png">
 &nbsp;&nbsp;
-<img align="center" height="70" alt="Bash" src="assets/bashshell.png">
+<img align="center" height="70" alt="Bash" title="Bash/Shell" src="assets/bashshell.png">
 &nbsp;&nbsp;
-<img align="center" height="70" alt="HTML5" src="assets/html5.svg">
+<img align="center" height="70" alt="HTML5" title="HTML5" src="assets/html5.svg">
 &nbsp;&nbsp;
-<img align="center" height="70" alt="CSS3" src="assets/css3.svg">
+<img align="center" height="70" alt="CSS3" title="CSS3" src="assets/css3.svg">
 &nbsp;&nbsp;
-<img align="center" height="70" alt="Git" src="assets/git.svg">
+<img align="center" height="70" alt="Git" title="Git" src="assets/git.svg">
 &nbsp;&nbsp;
-<img align="center" height="70" alt="VSCode" src="assets/vsc.svg">
+<img align="center" height="70" alt="VSCode" title="VSCode" src="assets/vsc.svg">
 <br><br>
 </p>
 <hr>
@@ -63,17 +63,17 @@ I also like dogs :dog:
 <h3 align="center">:floppy_disk:Operating Systems/Linux Distros:dvd:</h3>
 <hr>
 <p align="center">
-<img align="center" height="70" alt="Windows" src="assets/windows.png"> 
+<img align="center" height="70" alt="Windows" title="Windows" src="assets/windows.png"> 
 &nbsp;&nbsp;
-<img align="center" height="70" alt="Arch" src="assets/arch.png">
+<img align="center" height="70" alt="Arch" title="Arch" src="assets/arch.png">
 &nbsp;&nbsp;
-<img align="center" height="70" alt="Ubuntu" src="assets/ubuntu.png">
+<img align="center" height="70" alt="Ubuntu" title="Ubuntu" src="assets/ubuntu.png">
 &nbsp;&nbsp;
-<img align="center" height="70" alt="Debian" src="assets/debian.png">
+<img align="center" height="70" alt="Debian" title="Debian" src="assets/debian.png">
 &nbsp;&nbsp;
-<img align="center" height="70" alt="Kali" src="assets/kali.png">
+<img align="center" height="70" alt="Kali" title="Kali Linux" src="assets/kali.png">
 &nbsp;&nbsp;
-<img align="center" height="70" alt="RasPiOS" src="assets/raspios.svg">
+<img align="center" height="70" alt="RasPiOS" title="RaspberryPiOS" src="assets/raspios.svg">
 </p>
 <hr>
 <h3 align="center">:chart_with_upwards_trend: Stats (May not be up-to-date) :bar_chart: </h3>
