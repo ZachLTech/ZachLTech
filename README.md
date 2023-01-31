@@ -19,7 +19,7 @@ Beyond schooling, I program for fun and use coding to my advantage as well when 
 Python, HTML, Bash, CSS
 <br>
 <strong> Learning Focus: </strong>
-C/C++, Django, Docker, MySQL <img height="80" alt="<Funny Coding Gif Failed to Load>" src="assets/comp.gif">
+C/C++, Django, Docker, MySQL <img align="right" height="80" alt="<Funny Coding Gif Failed to Load>" src="assets/comp.gif">
 <br>
 <strong> Plan to Learn Learning:
 </strong> Rust, Javascript, React, AWS
