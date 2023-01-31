@@ -45,7 +45,7 @@ Beyond schooling, I program for fun and use coding to my advantage as well when 
 <strong> Learning Focus: </strong>
 C/C++, Django, Docker, MySQL 
 <br>
-<strong> Plan to Learn Learning:
+<strong> Plan to Learn/Learning:
 </strong> Rust, Javascript, React, AWS, FirebaseSDK
 <strong>
 <br>
