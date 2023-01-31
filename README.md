@@ -6,6 +6,7 @@
 <br>
 Beyond schooling, I program for fun and use coding to my advantage as well when I get the chance. </strong>
 <br>
+<img alt="<Funny Coding Gif Failed to Load>" src="https://media4.giphy.com/media/dZX3AduGrY3uJ7qCsx/giphy.gif"
 </p>
 <hr>
 <p align="left">
