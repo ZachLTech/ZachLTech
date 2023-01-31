@@ -13,6 +13,7 @@ Beyond schooling, I program for fun and use coding to my advantage as well when 
 <br>
 
 <img height="80" alt="<Funny Coding Gif Failed to Load>" src="assets/coding.gif">
+<br>
 </p>
 <hr>
 <h3 align="center">:scroll: Languages/Tools :wrench: </h3>
