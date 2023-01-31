@@ -7,6 +7,8 @@
 Beyond schooling, I program for fun and use coding to my advantage as well when I get the chance. </strong>
 <br>
 <img height="80" alt="<Funny Coding Gif Failed to Load>" src="assets/giphy.webp">
+<img height="80" alt="<Funny Coding Gif Failed to Load>" src="assets/comp.gif">
+<img height="80" alt="<Funny Coding Gif Failed to Load>" src="assets/coding.gif">
 </p>
 <hr>
 <p align="left">
