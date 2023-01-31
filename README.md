@@ -16,13 +16,19 @@ Beyond schooling, I program for fun and use coding to my advantage as well when 
 <hr>
 <p align="center">
 <img align="center" height="70" alt="Python" src="assets/python.png"> 
+&nbsp;&nbsp;
 <img align="center" height="70" alt="C" src="assets/c.png">
+&nbsp;&nbsp;
 <img align="center" height="70" alt="Bash" src="assets/bashshell.png">
+&nbsp;&nbsp;
 <img align="center" height="70" alt="HTML5" src="assets/html5.svg">
+&nbsp;&nbsp;
 <img align="center" height="70" alt="CSS3" src="assets/css3.svg">
+&nbsp;&nbsp;
 <img align="center" height="70" alt="Git" src="assets/git.svg">
+&nbsp;&nbsp;
 <img align="center" height="70" alt="VSCode" src="assets/vsc.svg">
-<br><br><br><br><br>
+<br><br>
 </p>
 <hr>
 <p align="left">
