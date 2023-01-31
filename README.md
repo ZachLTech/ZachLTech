@@ -1,6 +1,6 @@
 <h2 align="center">:rocket: Welcome to my GitHub Profile! I'm Zach :smile:</h2>
 
-<p align="center"> <img align="center" height="300" alt="<Funny Coding Gif Failed to Load>" src="assets/giphy.webp"> <br>
+<p align="center"> <img align="center" height="275" alt="<Funny Coding Gif Failed to Load>" src="assets/giphy.webp"> <br>
 <hr>
 <h3 align="center">About me</h3>
 <hr>
@@ -10,7 +10,7 @@
 <br>
 Beyond schooling, I program for fun and use coding to my advantage as well when I get the chance. </strong>
 
-
+<br>
 
 <img height="80" alt="<Funny Coding Gif Failed to Load>" src="assets/coding.gif">
 </p>
