@@ -58,7 +58,7 @@ I also like dogs :dog:
 </strong>
 </p>
 <hr>
-<h3>:floppy_disk:Operating Systems/Linux Distros:dvd:</h3>
+<h3 align="center">:floppy_disk:Operating Systems/Linux Distros:dvd:</h3>
 <hr>
 <p align="center">
 <img align="center" height="70" alt="Windows" src="assets/windows.png"> 
