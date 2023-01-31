@@ -16,10 +16,10 @@ Beyond schooling, I program for fun and use coding to my advantage as well when 
  data science, artificial intelligence, IT, software development, API’s, and even a little UX/UI design for websites/software
 <br>
 <strong> Languages: </strong> 
-Python, HTML, Bash, CSS
+Python, HTML, Bash, CSS<img align="right" height="80" alt="<Funny Coding Gif Failed to Load>" src="assets/comp.gif">
 <br>
 <strong> Learning Focus: </strong>
-C/C++, Django, Docker, MySQL <img align="right" height="80" alt="<Funny Coding Gif Failed to Load>" src="assets/comp.gif">
+C/C++, Django, Docker, MySQL 
 <br>
 <strong> Plan to Learn Learning:
 </strong> Rust, Javascript, React, AWS
