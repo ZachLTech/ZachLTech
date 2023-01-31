@@ -7,7 +7,7 @@
 Beyond schooling, I program for fun and use coding to my advantage as well when I get the chance. </strong>
 <br>
 <img height="80" alt="<Funny Coding Gif Failed to Load>" src="assets/giphy.webp">
-<img height="80" alt="<Funny Coding Gif Failed to Load>" src="assets/comp.gif">
+
 <img height="80" alt="<Funny Coding Gif Failed to Load>" src="assets/coding.gif">
 </p>
 <hr>
@@ -19,7 +19,7 @@ Beyond schooling, I program for fun and use coding to my advantage as well when 
 Python, HTML, Bash, CSS
 <br>
 <strong> Learning Focus: </strong>
-C/C++, Django, Docker, MySQL
+C/C++, Django, Docker, MySQL <img height="80" alt="<Funny Coding Gif Failed to Load>" src="assets/comp.gif">
 <br>
 <strong> Plan to Learn Learning:
 </strong> Rust, Javascript, React, AWS
