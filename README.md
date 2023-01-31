@@ -76,7 +76,7 @@ I also like dogs :dog:
 <hr>
 
 <div align="center">
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZachLTech)](https://github.com/anuraghazra/github-readme-stats)
+![Zach's GitHub stats](https://github-readme-stats.vercel.app/api?username=zachltech&theme=dark&show_icons=true)
 </div>
 
 <div align="center">
