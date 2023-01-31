@@ -22,6 +22,7 @@ Beyond schooling, I program for fun and use coding to my advantage as well when 
 <img align="right" height="100" alt="CSS3" src="assets/css3.svg">
 <img align="right" height="100" alt="Git" src="assets/git.svg">
 <img align="right" height="100" alt="VSCode" src="assets/vsc.svg">
+<br><br>
 </p>
 <hr>
 <p align="left">
