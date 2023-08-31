@@ -20,7 +20,7 @@ Beyond schooling, I program for fun and use coding to my advantage when I get th
 <h3 align="center">:scroll: Languages/Tools :wrench: </h3>
 <hr>
 <p align="center">
-<img align="center" style="margin: 15px;" height="70" alt="Python" title="Python" src="assets/python.png"> 
+<img align="center" height="70" alt="Python" title="Python" src="assets/python.png"> 
 &nbsp;&nbsp;
 <img align="center" height="70" alt="C" title="C" src="assets/c.png">
 &nbsp;&nbsp;
