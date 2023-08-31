@@ -66,7 +66,7 @@ C/C++, Django, Docker, MySQL
 <hr>
 I'm currently working on a few projects as you can see in my repositories,
 <br>
-alongside taking college classes full-time and I enjoy ricing linux on my spare time.
+alongside taking college classes full-time, I enjoy ricing linux on my spare time, doing 3D printer stuff, and messingg around with servers (homelab).
 <br>
 </p>
 <p align="center">
