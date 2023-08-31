@@ -6,9 +6,9 @@
 <hr>
 
 <p align="center">
-<strong> Hi! My name’s Zach, academically I’m a 16 year old high school student in college!
+<strong> Hi! My name’s Zach, Currently I'm a student attending university!
 <br>
-Beyond schooling, I program for fun and use coding to my advantage as well when I get the chance. </strong>
+Beyond schooling, I program for fun and use coding to my advantage when I get the chance. </strong>
 
 <br>
 
