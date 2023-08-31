@@ -15,8 +15,17 @@ Beyond schooling, I program for fun and use coding to my advantage when I get th
 <img height="80" alt="<Funny Coding Gif Failed to Load>" src="assets/coding.gif">
 <br>
 
+<style>
+.tools{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 15px;
+}
+</style>
+
 </p>
 <hr>
+<div class="tools">
 <h3 align="center">:scroll: Languages/Tools :wrench: </h3>
 <hr>
 <p align="center">
@@ -47,6 +56,7 @@ Beyond schooling, I program for fun and use coding to my advantage when I get th
 <img align="center" height="70" alt="Cura" title="Cura" src="assets/cura.png">
 <br><br>
 </p>
+</div>
 <hr>
 <p align="left">
 <strong> Interests: </strong>
