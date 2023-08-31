@@ -30,6 +30,10 @@ Beyond schooling, I program for fun and use coding to my advantage when I get th
 &nbsp;&nbsp;
 <img align="center" height="70" alt="CSS3" title="CSS3" src="assets/css3.svg">
 &nbsp;&nbsp;
+<img align="center" height="70" alt="JS" title="JS" src="assets/js.png">
+&nbsp;&nbsp;
+<img align="center" height="70" alt="NodeJS" title="NodeJS" src="assets/nodejs.png">
+&nbsp;&nbsp;
 <img align="center" height="70" alt="Svelte" title="Svelte" src="assets/svelte.svg.png">
 &nbsp;&nbsp;
 <img align="center" height="70" alt="Firebase" title="Firebase" src="assets/firebase.svg">
@@ -37,6 +41,10 @@ Beyond schooling, I program for fun and use coding to my advantage when I get th
 <img align="center" height="70" alt="Git" title="Git" src="assets/git.svg">
 &nbsp;&nbsp;
 <img align="center" height="70" alt="VSCode" title="VSCode" src="assets/vsc.svg">
+&nbsp;&nbsp;
+<img align="center" height="70" alt="Fusion 360" title="Fusion 360" src="assets/f360.png">
+&nbsp;&nbsp;
+<img align="center" height="70" alt="Cura" title="Cura" src="assets/cura.png">
 <br><br>
 </p>
 <hr>
