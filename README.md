@@ -8,7 +8,7 @@
 <p align="center">
 <strong> Hi! My name’s Zach, Currently I'm a student attending university!
 <br>
-Beyond schooling, I program for fun and use coding to my advantage when I get the chance. Front end devt. has been my focus recently but I'm majoring in computer science and entrepreneurship is the plan</strong>
+Beyond schooling, I program for fun and use coding to my advantage when I get the chance. Full stack devt. has been my focus recently but I'm majoring in computer science and entrepreneurship is the plan</strong>
 
 <br>
 
