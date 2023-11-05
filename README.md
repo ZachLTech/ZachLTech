@@ -43,16 +43,18 @@ Beyond schooling, I program for fun and use coding to my advantage when I get th
 &nbsp;&nbsp;
 <img align="center" height="70" alt="VSCode" title="VSCode" src="assets/vsc.svg">
 &nbsp;&nbsp;
+ <!--
 <img align="center" height="70" alt="Fusion 360" title="Fusion 360" src="assets/f360.png">
 &nbsp;&nbsp;
 <img align="center" height="70" alt="Cura" title="Cura" src="assets/cura.png">
+ -->
 <br><br>
 </p>
 </div>
 <hr>
 <p align="left">
 <strong> Interests: </strong>
- data science, artificial intelligence, IT, software development, API’s, and even a little UX/UI design for websites/software
+ data science, artificial intelligence, IT, software development, API’s, Web Development (full stack 😋)
 
 <img align="right" height="80" alt="<Funny Coding Gif Failed to Load>" src="assets/comp.gif">
 <br>
@@ -60,13 +62,13 @@ Beyond schooling, I program for fun and use coding to my advantage when I get th
 C/C++, Django, Docker, MySQL 
 <br>
 <strong> Plan to Learn/Learning:
-</strong> Rust, Javascript, React, AWS, FirebaseSDK
+</strong> Rust, React, AWS, FirebaseSDK, ExpressJS
 <strong>
 <br>
 <hr>
 I'm currently working on a few projects as you can see in my repositories,
 <br>
-alongside taking college classes full-time, I enjoy ricing linux on my spare time, doing 3D printer stuff, and messingg around with servers (homelab).
+alongside taking college classes full-time, I enjoy ricing linux on my spare time, doing 3D printer stuff, and messing around with servers (insane homelab).
 <br>
 </p>
 <p align="center">
