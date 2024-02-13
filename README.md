@@ -15,9 +15,9 @@ Beyond schooling, I program for fun using coding to my advantage when I get the 
 <summary>Languages</summary>
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,bash)]()
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,bash)](https://github.com/ZachLTech)
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,html,css)]()
+[![My Skills](https://skillicons.dev/icons?i=ts,js,html,css)](https://github.com/ZachLTech)
 
 <br>
 </details>
@@ -26,17 +26,17 @@ Beyond schooling, I program for fun using coding to my advantage when I get the 
 <summary>Tooling</summary>
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=git,github)]() &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-[![My Skills](https://skillicons.dev/icons?i=vscode,vim,neovim)]()
+[![My Skills](https://skillicons.dev/icons?i=git,github)](https://github.com/ZachLTech) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+[![My Skills](https://skillicons.dev/icons?i=vscode,vim,neovim)](https://github.com/ZachLTech)
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,bun,express)]() &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-[![My Skills](https://skillicons.dev/icons?i=nuxt,svelte,tailwind)]() &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-[![My Skills](https://skillicons.dev/icons?i=firebase,appwrite,supabase)]()
+[![My Skills](https://skillicons.dev/icons?i=nodejs,bun,express)](https://github.com/ZachLTech) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+[![My Skills](https://skillicons.dev/icons?i=nuxt,svelte,tailwind)](https://github.com/ZachLTech) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+[![My Skills](https://skillicons.dev/icons?i=firebase,appwrite,supabase)](https://github.com/ZachLTech)
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=linux,raspberrypi,arduino)]() &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-[![My Skills](https://skillicons.dev/icons?i=docker,cloudflare)]()
+[![My Skills](https://skillicons.dev/icons?i=linux,raspberrypi,arduino)](https://github.com/ZachLTech) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+[![My Skills](https://skillicons.dev/icons?i=docker,cloudflare)](https://github.com/ZachLTech)
 
 <br>
 </details>
@@ -56,10 +56,10 @@ I'm currently working on a few projects, some of which are public in my reposito
 I also like dogs 🐶
 <hr>
 
-[![My GitHub stats](https://github-readme-stats-zachltech.vercel.app/api?username=ZachLTech&show_icons=true&theme=dark&hide_title=false&card_width=400px&hide_rank=true&line_height=34&hide=issues&custom_title=ZachLTech's%20GitHub%20Stats)]() [![Top Langs](https://github-readme-stats-zachltech.vercel.app/api/top-langs/?username=ZachLTech&exclude_repo=PhysicalSizeOfTheInternetSite&hide=roff,html,css&layout=donut&theme=dark)]()
+[![My GitHub stats](https://github-readme-stats-zachltech.vercel.app/api?username=ZachLTech&show_icons=true&theme=dark&hide_title=false&card_width=400px&hide_rank=true&line_height=34&hide=issues&custom_title=ZachLTech's%20GitHub%20Stats)](https://github.com/ZachLTech) [![Top Langs](https://github-readme-stats-zachltech.vercel.app/api/top-langs/?username=ZachLTech&exclude_repo=PhysicalSizeOfTheInternetSite&hide=roff,html,css&layout=donut&theme=dark)](https://github.com/ZachLTech)
 <hr>
 
-[![Readme Card](https://github-readme-stats-zachltech.vercel.app/api/pin/?username=EduquestAI&repo=Eduquest-Qubitx&theme=dark)]() [![Readme Card](https://github-readme-stats-zachltech.vercel.app/api/pin/?username=RealStr1ke&repo=Schedulix&theme=dark)]()
-[![Readme Card](https://github-readme-stats-zachltech.vercel.app/api/pin/?username=ZachLTech&repo=webdevcourse&theme=dark)]() [![Readme Card](https://github-readme-stats-zachltech.vercel.app/api/pin/?username=ZachLTech&repo=LinkTreeClone&theme=dark)]()
-[![Readme Card](https://github-readme-stats-zachltech.vercel.app/api/pin/?username=ZachLTech&repo=PhysicalSizeOfTheInternetSite&theme=dark)]() [![Readme Card](https://github-readme-stats-zachltech.vercel.app/api/pin/?username=ZachLTech&repo=hyprland-dotfiles&theme=dark)]()
+[![Readme Card](https://github-readme-stats-zachltech.vercel.app/api/pin/?username=EduquestAI&repo=Eduquest-Qubitx&theme=dark)](https://github.com/EduquestAI/Eduquest-Qubitx) [![Readme Card](https://github-readme-stats-zachltech.vercel.app/api/pin/?username=RealStr1ke&repo=Schedulix&theme=dark)](https://github.com/RealStr1ke/Schedulix)
+[![Readme Card](https://github-readme-stats-zachltech.vercel.app/api/pin/?username=ZachLTech&repo=webdevcourse&theme=dark)](https://github.com/ZachLTech/webdevcourse) [![Readme Card](https://github-readme-stats-zachltech.vercel.app/api/pin/?username=ZachLTech&repo=LinkTreeClone&theme=dark)](https://github.com/ZachLTech/LinkTreeClone)
+[![Readme Card](https://github-readme-stats-zachltech.vercel.app/api/pin/?username=ZachLTech&repo=PhysicalSizeOfTheInternetSite&theme=dark)](https://github.com/ZachLTech/PhysicalSizeOfTheInternetSite) [![Readme Card](https://github-readme-stats-zachltech.vercel.app/api/pin/?username=ZachLTech&repo=hyprland-dotfiles&theme=dark)](https://github.com/ZachLTech/hyprland-dotfiles)
 
