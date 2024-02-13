@@ -1,9 +1,9 @@
-## <center>🚀 Welcome to my GitHub Profile! I'm Zach 😄</center>
-<center>
+## <p align="center">🚀 Welcome to my GitHub Profile! I'm Zach 😄</p>
+<p align="center">
     <img src="assets/giphy.gif" />
     <br>
-    <img src="https://img.shields.io/badge/My%20Socials-3e7d43?style=for-the-badge" />
-</center>
+    <a href="https://zachl.space"><img src="https://img.shields.io/badge/My%20Socials-3e7d43?style=for-the-badge" /></a>
+</p>
 
 <hr>
 
