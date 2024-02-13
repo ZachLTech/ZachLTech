@@ -1,113 +1,65 @@
-<h2 align="center">:rocket: Welcome to my GitHub Profile! I'm Zach :smile:</h2>
+## <center>🚀 Welcome to my GitHub Profile! I'm Zach 😄</center>
+<center>
+    <img src="assets/giphy.gif" />
+    <br>
+    <img src="https://img.shields.io/badge/My%20Socials-3e7d43?style=for-the-badge" />
+</center>
 
-<p align="center"> <img align="center" height="275" alt="<Funny Coding Gif Failed to Load>" src="assets/giphy.webp"> <br>
-<hr>
-<h3 align="center">About me</h3>
 <hr>
 
-<p align="center">
-<strong> Hi! My name’s Zach, Currently I'm a student attending university!
+### About me 👀
+Hi, My name’s Zach, Currently I'm a student attending university!
+Beyond schooling, I program for fun using coding to my advantage when I get the chance. Full stack devt. has been my focus recently but I'm majoring in computer science and entrepreneurship is the plan.
+
+<details>
+<summary>Languages</summary>
 <br>
-Beyond schooling, I program for fun and use coding to my advantage when I get the chance. Full stack devt. has been my focus recently but I'm majoring in computer science and entrepreneurship is the plan</strong>
+
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,bash)]()
+
+[![My Skills](https://skillicons.dev/icons?i=ts,js,html,css)]()
 
 <br>
+</details>
 
-<img height="80" alt="<Funny Coding Gif Failed to Load>" src="assets/coding.gif">
+<details>
+<summary>Tooling</summary>
 <br>
 
-</p>
-<hr>
-<div class="tools">
-<h3 align="center">:scroll: Languages/Tools :wrench: </h3>
-<hr>
-<p align="center">
-<img align="center" height="70" alt="Python" title="Python" src="assets/python.png"> 
-&nbsp;&nbsp;
-<img align="center" height="70" alt="C" title="C" src="assets/c.png">
-&nbsp;&nbsp;
-<img align="center" height="70" alt="Bash" title="Bash/Shell" src="assets/bashshell.png">
-&nbsp;&nbsp;
-<img align="center" height="70" alt="HTML5" title="HTML5" src="assets/html5.svg">
-&nbsp;&nbsp;
-<img align="center" height="70" alt="CSS3" title="CSS3" src="assets/css3.svg">
-&nbsp;&nbsp;
-<img align="center" height="70" alt="JS" title="JS" src="assets/js.png">
-&nbsp;&nbsp;
-<img align="center" height="70" alt="NodeJS" title="NodeJS" src="assets/nodejs.png">
-&nbsp;&nbsp;
-<img align="center" height="70" alt="Svelte" title="Svelte" src="assets/svelte.svg.png">
-&nbsp;&nbsp;
-<img align="center" height="70" alt="Firebase" title="Firebase" src="assets/firebase.svg">
-&nbsp;&nbsp;
-<img align="center" height="70" alt="Git" title="Git" src="assets/git.svg">
-&nbsp;&nbsp;
-<img align="center" height="70" alt="VSCode" title="VSCode" src="assets/vsc.svg">
-&nbsp;&nbsp;
- <!--
-<img align="center" height="70" alt="Fusion 360" title="Fusion 360" src="assets/f360.png">
-&nbsp;&nbsp;
-<img align="center" height="70" alt="Cura" title="Cura" src="assets/cura.png">
- -->
-<br><br>
-</p>
-</div>
-<hr>
-<p align="left">
-<strong> Interests: </strong>
- data science, artificial intelligence, IT, software development, API’s, Web Development (full stack 😋)
+[![My Skills](https://skillicons.dev/icons?i=git,github)]() &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+[![My Skills](https://skillicons.dev/icons?i=vscode,vim,neovim)]()
+<br>
 
-<img align="right" height="80" alt="<Funny Coding Gif Failed to Load>" src="assets/comp.gif">
+[![My Skills](https://skillicons.dev/icons?i=nodejs,bun,express)]() &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+[![My Skills](https://skillicons.dev/icons?i=nuxt,svelte,tailwind)]() &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+[![My Skills](https://skillicons.dev/icons?i=firebase,appwrite,supabase)]()
 <br>
-<strong> Learning Focus: </strong>
-C/C++, Django, Docker, MySQL 
-<br>
-<strong> Plan to Learn/Learning:
-</strong> Rust, React, AWS, FirebaseSDK, ExpressJS
-<strong>
-<br>
-<hr>
-I'm currently working on a few projects as you can see in my repositories,
-<br>
-alongside taking college classes full-time, I enjoy ricing linux on my spare time, doing 3D printer stuff, and messing around with servers (insane homelab).
-<br>
-</p>
-<p align="center">
-I also like dogs :dog:
-</strong>
-</p>
-<hr>
-<h3 align="center">:floppy_disk:Operating Systems/Linux Distros:dvd:</h3>
-<hr>
-<p align="center">
-<img align="center" height="70" alt="Windows" title="Windows" src="assets/windows.png"> 
-&nbsp;&nbsp;
-<img align="center" height="70" alt="Arch" title="Arch" src="assets/arch.png">
-&nbsp;&nbsp;
-<img align="center" height="70" alt="Ubuntu" title="Ubuntu" src="assets/ubuntu.png">
-&nbsp;&nbsp;
-<img align="center" height="70" alt="Debian" title="Debian" src="assets/debian.png">
-&nbsp;&nbsp;
-<img align="center" height="70" alt="Kali" title="Kali Linux" src="assets/kali.png">
-&nbsp;&nbsp;
-<img align="center" height="70" alt="RasPiOS" title="RaspberryPiOS" src="assets/raspios.svg">
-<img align="center" height="70" alt="Hyprland" title="Window Manager (Hyprland)" src="assets/hyprland-nobg.png">
-</p>
-<hr>
-<h3 align="center">:chart_with_upwards_trend: Stats (May not be up-to-date) :bar_chart: </h3>
-<hr>
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=zachltech&theme=tokyonight&show_icons=true">
-<br />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=zachltech&theme=tokyonight&show_icons=true">
-<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zachltech&layout=compact&theme=tokyonight&show_icons=true" width = 500>
-</div>
 
-<hr>
-<h3 align="center">:pushpin: Metrics :paperclip:</h3>
-<hr>
-<div align="center">
+[![My Skills](https://skillicons.dev/icons?i=linux,raspberrypi,arduino)]() &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+[![My Skills](https://skillicons.dev/icons?i=docker,cloudflare)]()
 
-![Metrics](https://metrics.lecoq.io/ZachLTech?template=classic&habits=1&stars=1&achievements=1&introduction=1&activity=1&repositories=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&stars=false&stars.limit=4&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&repositories=false&repositories.featured=Smart-Mouse-Clicker%2C%20PhysicalSizeOfTheInternetSite%2C%20PortfolioLoadingPage&repositories.pinned=0&repositories.starred=0&repositories.random=0&repositories.order=featured%2C%20pinned%2C%20starred%2C%20random&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&activity=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&introduction=false&introduction.title=true&config.timezone=America%2FNew_York)
+<br>
+</details>
+<br>
 
-</div>
+```json
+{
+  "success": true,
+  "Interests": ["Full Stack (Web Devt.)", "Self Hosted", "IT", "Artificial Intelligence", "Data Science"],
+  "Learning Focus": ["Go", "Supabase", "Appwrite", "MySQL"],
+  "Plan to Learn": ["Stripe", "Blender", "Mojo", "Entreprenuership 😄"],
+}
+```
+
+I'm currently working on a few projects, some of which are public in my repositories. Alongside taking college classes full-time, I enjoy ricing my arch system with Hyprland, playing basketball on weekends, messing with CAD / 3D Printing, and building my ultimate proxmox powered homelab (docker is my best friend)
+
+I also like dogs 🐶
+<hr>
+
+[![My GitHub stats](https://github-readme-stats-zachltech.vercel.app/api?username=ZachLTech&show_icons=true&theme=dark&hide_title=false&card_width=400px&hide_rank=true&line_height=34&hide=issues&custom_title=ZachLTech's%20GitHub%20Stats)]() [![Top Langs](https://github-readme-stats-zachltech.vercel.app/api/top-langs/?username=ZachLTech&exclude_repo=PhysicalSizeOfTheInternetSite&hide=roff,html,css&layout=donut&theme=dark)]()
+<hr>
+
+[![Readme Card](https://github-readme-stats-zachltech.vercel.app/api/pin/?username=EduquestAI&repo=Eduquest-Qubitx&theme=dark)]() [![Readme Card](https://github-readme-stats-zachltech.vercel.app/api/pin/?username=RealStr1ke&repo=Schedulix&theme=dark)]()
+[![Readme Card](https://github-readme-stats-zachltech.vercel.app/api/pin/?username=ZachLTech&repo=webdevcourse&theme=dark)]() [![Readme Card](https://github-readme-stats-zachltech.vercel.app/api/pin/?username=ZachLTech&repo=LinkTreeClone&theme=dark)]()
+[![Readme Card](https://github-readme-stats-zachltech.vercel.app/api/pin/?username=ZachLTech&repo=PhysicalSizeOfTheInternetSite&theme=dark)]() [![Readme Card](https://github-readme-stats-zachltech.vercel.app/api/pin/?username=ZachLTech&repo=hyprland-dotfiles&theme=dark)]()
+
