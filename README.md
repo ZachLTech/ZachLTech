@@ -47,7 +47,7 @@ Beyond schooling, I program for fun using coding to my advantage when I get the 
   "success": true,
   "Interests": ["Full Stack (Web Devt.)", "Self Hosted", "IT", "Artificial Intelligence", "Data Science"],
   "Learning Focus": ["Go", "Supabase", "Appwrite", "MySQL"],
-  "Plan to Learn": ["Stripe", "Blender", "Mojo", "Entreprenuership 😄"],
+  "Plan to Learn": ["Stripe", "Blender", "Mojo", "Entrepreneurship 😄"],
 }
 ```
 
