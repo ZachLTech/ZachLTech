@@ -2,7 +2,7 @@
 <p align="center">
     <img src="assets/giphy.gif" />
     <br>
-    <a href="https://zachl.space"><img src="https://img.shields.io/badge/My%20Socials-3e7d43?style=for-the-badge" /></a>
+    <a href="https://zachl.tech"><img src="https://img.shields.io/badge/My%20Socials-3e7d43?style=for-the-badge" /></a>
 </p>
 
 <hr>
