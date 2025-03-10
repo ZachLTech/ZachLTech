@@ -38,7 +38,7 @@
 }
 ```
 
-For more about me: `$ ssh zachl.tech` (or visit [my website](https://zachl.tech))
+For more about me: `$ ssh zachl.tech -p 2222` (or visit [my website](https://zachl.tech))
 
 <hr>
 
